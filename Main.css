@@ -1,1 +1,10 @@
 
+#grad {
+  background-image: linear-gradient(red, yellow);
+}
+.p {
+  color: blue;
+}
+body {
+  text-align: center;
+}
